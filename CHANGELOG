@@ -1,0 +1,4 @@
+Collectors\siem\siem.msi
+Collectors\packets\install.ps1
+Collectors\configs\ossec.conf
+Logstail Agent.exe
